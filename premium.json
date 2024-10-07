@@ -1,5 +1,174 @@
 {
-  "60325": "https://github.com/kiranhart/Auction-House",
-  "69766": "https://github.com/XZot1K/DisplayShops",
-  "79965": "https://github.com/Zithium-Studios/DeluxeCoinflip"
+  "60325": {
+    "spigot": "https://www.spigotmc.org/resources/auction-house-the-ultimate-auction-house.60325",
+    "github": "https://github.com/kiranhart/Auction-House"
+  },
+  "69766": {
+    "spigot": "https://www.spigotmc.org/resources/%E2%80%A2-display-shops-a-new-approach-to-player-shops-%E2%80%A2.69766",
+    "github": "https://github.com/XZot1K/DisplayShops"
+  },
+  "79965": {
+    "spigot": "https://www.spigotmc.org/resources/deluxecoinflip-%E2%AD%90-multiple-currencies-money-tokens-points-%E2%9C%85-tax-system-tracked-statistics.79965",
+    "github": "https://github.com/Zithium-Studios/DeluxeCoinflip"
+  },
+  "13811": {
+    "spigot": "https://www.spigotmc.org/resources/citizens.13811",
+    "github": "https://github.com/CitizensDev/Citizens2"
+  },
+  "77506": {
+    "spigot": "https://www.spigotmc.org/resources/plotsquared-v7.77506",
+    "github": "https://github.com/IntellectualSites/PlotSquared"
+  },
+  "32453": {
+    "spigot": "https://www.spigotmc.org/resources/libs-disguises-premium-33-off.32453",
+    "github": "https://github.com/libraryaddict/LibsDisguises"
+  },
+  "69111": {
+    "spigot": "https://www.spigotmc.org/resources/skywarsreloaded-extension-new-playagain-feature-kit-menu-editor-npcs-1-8x-1-20x.69111",
+    "github": "https://github.com/lukasvdgaag/SkyWarsReloaded-Extension"
+  },
+  "72448": {
+    "spigot": "https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8F-oraxen-custom-items-blocks-emotes-furniture-resourcepack-and-gui-1-18-1-21-1.72448",
+    "github": "https://github.com/oraxen/oraxen"
+  },
+  "13654": {
+    "spigot": "https://www.spigotmc.org/resources/crazy-vouchers.13654",
+    "github": "https://github.com/Crazy-Crew/CrazyVouchers"
+  },
+  "51204": {
+    "spigot": "https://www.spigotmc.org/resources/playervaultsx.51204",
+    "github": "https://github.com/KittehDev/PlayerVaultsX"
+  },
+  "25638": {
+    "spigot": "https://www.spigotmc.org/resources/spartan-anti-cheat-for-java-advanced-anticheat-detection-1-7-1-21.25638",
+    "github": "https://github.com/Vagdedes/Spartan-AntiCheat"
+  },
+  "64348": {
+    "spigot": "https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348",
+    "github": "https://github.com/mcMMO-Dev/mcMMO"
+  },
+  "84586": {
+    "spigot": "https://www.spigotmc.org/resources/iris-dimension-engine.84586",
+    "github": "https://github.com/VolmitSoftware/Iris"
+  },
+  "79573": {
+    "spigot": "https://www.spigotmc.org/resources/ecoenchants-%E2%AD%95-250-enchantments-%E2%9C%85-create-custom-enchants-%E2%9C%A8-essentials-cmi-support.79573",
+    "github": "https://github.com/Auxilor/EcoEnchants"
+  },
+  "56399": {
+    "spigot": "https://www.spigotmc.org/resources/lagassist-%E2%9A%A1-advanced-performance-solution-%E2%9A%A1-1-8-1-20-2-compatible.56399",
+    "github": "https://github.com/alvindimas05/LagAssist"
+  },
+  "50696": {
+    "spigot": "https://www.spigotmc.org/resources/excellentshop-%E2%AD%90-4-in-1-multi-currency-shop.50696",
+    "github": "https://github.com/nulli0n/ExcellentShop-spigot"
+  },
+  "23138": {
+    "spigot": "https://www.spigotmc.org/resources/trade-%E2%9C%B1-trade-items-money-tokens-protection-blocks-and-more-in-an-elegant-gui.23138",
+    "github": "https://github.com/Trophonix/TradePlus"
+  },
+  "10610": {
+    "spigot": "https://www.spigotmc.org/resources/pvpmanager.10610",
+    "github": "https://github.com/ChanceSD/PvPManager"
+  },
+  "88214": {
+    "spigot": "https://www.spigotmc.org/resources/%E2%AD%90-angelchest-plus-%E2%AD%90-death-chests-graveyards.88214",
+    "github": "https://github.com/mfnalex/AngelChest"
+  },
+  "76749": {
+    "spigot": "https://www.spigotmc.org/resources/zkoth-king-of-the-hill.76749",
+    "github": "https://github.com/Maxlego08/zKoth"
+  },
+  "59129": {
+    "spigot": "https://www.spigotmc.org/resources/qualityarmory-vehicles-2.59129",
+    "github": "https://github.com/ZombieStriker/QualityArmoryVehicles2"
+  },
+  "63855": {
+    "spigot": "https://www.spigotmc.org/resources/serverselectorx-premium.63855",
+    "github": "https://github.com/ServerSelectorX/ServerSelectorX"
+  },
+  "33590": {
+    "spigot": "https://www.spigotmc.org/resources/anticheataddition.33590",
+    "github": "https://github.com/Photon-GitHub/AntiCheatAddition"
+  },
+  "86845": {
+    "spigot": "https://www.spigotmc.org/resources/prison-core-%E2%9B%93%EF%B8%8F-x-prison-%E2%9B%93%EF%B8%8F-1-8-1-20-x-1-prison-core-all-in-one-solution-for-prison-servers.86845",
+    "github": "https://github.com/Drawethree/X-Prison"
+  },
+  "77670": {
+    "spigot": "https://www.spigotmc.org/resources/kingdomsx.77670",
+    "github": "https://github.com/CryptoMorin/KingdomsX"
+  },
+  "95541": {
+    "spigot": "https://www.spigotmc.org/resources/ecoskills-%E2%AD%95-addictive-mmorpg-skills-%E2%9C%85-create-skills-stats-effects-mana-%E2%9C%A8-plug-play.95541",
+    "github": "https://github.com/Auxilor/EcoSkills"
+  },
+  "72142": {
+    "spigot": "https://www.spigotmc.org/resources/40-off-%E2%9A%94%EF%B8%8F-bountyhunters-premium-%E2%9A%94%EF%B8%8F.72142",
+    "github": "https://gitlab.com/phoenix-dvpmt/bounty-hunters"
+  },
+  "34305": {
+    "spigot": "https://www.spigotmc.org/resources/herochat-pro-multi-server-chat-channels-and-more-50-off.34305",
+    "github": "https://gitlab.com/herocraft/Herochat"
+  },
+  "118132": {
+    "spigot": "https://www.spigotmc.org/resources/ecoscrolls-%E2%AD%95-create-item-modifiers-%E2%9C%85-gui-prices-drag-and-drop-%E2%9C%A8-custom-item-support.118132",
+    "github": "https://github.com/Auxilor/EcoScrolls"
+  },
+  "106529": {
+    "spigot": "https://www.spigotmc.org/resources/ecoshop-%E2%AD%95-server-shop-gui-%E2%9C%85-multi-currency-support-%E2%9C%A8-custom-items-premade-shop.106529",
+    "github": "https://github.com/Auxilor/EcoShop"
+  },
+  "111920": {
+    "spigot": "https://www.spigotmc.org/resources/ecoquests-%E2%AD%95-powerful-quests-system-%E2%9C%85-fully-gui-based-%E2%9C%A8-quest-trees-daily-quests-mysql.111920",
+    "github": "https://github.com/Auxilor/EcoQuests"
+  },
+  "105298": {
+    "spigot": "https://www.spigotmc.org/resources/actions-%E2%AD%95-customize-your-server-%E2%9C%85-create-scripts-perks-automations-%E2%9C%A8-50-plugin-hooks.105298",
+    "github": "https://github.com/Auxilor/Actions"
+  },
+  "105190": {
+    "spigot": "https://www.spigotmc.org/resources/ecojobs-%E2%AD%95-powerful-employment-system-%E2%9C%85-create-custom-jobs-%E2%9C%A8-levelling-effects.105190",
+    "github": "https://github.com/Auxilor/EcoJobs"
+  },
+  "102693": {
+    "spigot": "https://www.spigotmc.org/resources/ecopets-%E2%AD%95-create-custom-pets-%E2%9C%85-premade-pets-%E2%9C%A8-levelling-abilities-custom-textures.102693",
+    "github": "https://github.com/Auxilor/EcoPets"
+  },
+  "99928": {
+    "spigot": "https://www.spigotmc.org/resources/boosters-%E2%AD%95-eula-friendly-global-buffs-%E2%9C%85-jobs-skills-sell-multipliers-%E2%9C%A8-create-your-own.99928",
+    "github": "https://github.com/Auxilor/Boosters"
+  },
+  "95273": {
+    "spigot": "https://www.spigotmc.org/resources/reforges-%E2%AD%95-create-custom-reforges-%E2%9C%85-item-modfiers-%E2%9C%A8-reforge-stones-gui-npc-support.95273",
+    "github": "https://github.com/Auxilor/Reforges"
+  },
+  "94601": {
+    "spigot": "https://www.spigotmc.org/resources/ecoitems-%E2%AD%95-create-custom-items-%E2%9C%85-weapons-armors-tools-charms-%E2%9C%A8-item-levels-rarities.94601",
+    "github": "https://github.com/Auxilor/EcoItems"
+  },
+  "88246": {
+    "spigot": "https://www.spigotmc.org/resources/ecoarmor-%E2%AD%95-create-custom-armor-%E2%9C%85-premade-sets-%E2%9C%A8-upgrades-crafting-custom-textures.88246",
+    "github": "https://github.com/Auxilor/EcoArmor"
+  },
+  "88247": {
+    "spigot": "https://www.spigotmc.org/resources/stattrackers-%E2%AD%95-eula-friendly-cosmetic-%E2%9C%85-stattrak-in-minecraft-%E2%9C%A8-create-custom-trackers.88247",
+    "github": "https://github.com/Auxilor/StatTrackers"
+  },
+  "87377": {
+    "spigot": "https://www.spigotmc.org/resources/talismans-%E2%AD%95-create-custom-talismans-%E2%9C%85-powerful-passive-effects-%E2%9C%A8-talisman-bag-levels.87377",
+    "github": "https://github.com/Auxilor/Talismans"
+  },
+  "86576": {
+    "spigot": "https://www.spigotmc.org/resources/ecomobs-%E2%AD%95-create-custom-mobs-%E2%9C%85-custom-mob-ai-%E2%9C%A8-natural-spawns-custom-model-support.86576",
+    "github": "https://github.com/Auxilor/EcoMobs"
+  },
+  "100855": {
+    "spigot": "https://www.spigotmc.org/resources/ecocrates-%E2%AD%95-create-crates-easily-%E2%9C%85-custom-item-support-%E2%9C%A8-import-crates.100855",
+    "github": "https://github.com/Auxilor/EcoCrates"
+  },
+  "109967": {
+    "spigot": "https://www.spigotmc.org/resources/ecobits-%E2%AD%95-create-custom-currencies-%E2%9C%85-improve-your-monetization-%E2%9C%A8-supports-shops-mysql.109967",
+    "github": "https://github.com/Auxilor/EcoBits"
+  }
 }
